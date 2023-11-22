@@ -1,2 +1,2 @@
-SELECT * FROM list we want to get data
- WHERE column_name 'name we want to find under column'
+SELECT * FROM customer(list we want to get data)
+ WHERE first_name (column_name) 'Javed'('name we want to find under column')
